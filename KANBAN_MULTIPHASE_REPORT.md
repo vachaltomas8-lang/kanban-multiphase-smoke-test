@@ -1,5 +1,22 @@
 # Kanban Multi-Phase Smoke Test — Final Report
 
+**Repo:** https://github.com/vachaltomas8-lang/kanban-multiphase-smoke-test
+
+---
+
+## All Commits (chronological)
+
+| # | Commit | Date | Description |
+|---|--------|------|-------------|
+| 1 | `c8a924a` | 2026-07-04 | Initial commit |
+| 2 | `cf4f097` | 2026-07-04 | Phase 1: add length converter (m/km/mi/ft) with TDD |
+| 3 | `368fed1` | 2026-07-04 | Phase 2: add weight converter (kg/lb/g/oz) + unified CLI |
+| 4 | `3486afd` | 2026-07-04 | Merge Phase 2: weight converter + unified CLI |
+| 5 | `28c7d43` | 2026-07-04 | Phase 3: add JSON CLI output and final kanban report |
+| 6 | `6251b55` | 2026-07-04 | Merge Phase 3: JSON output mode (complete project) |
+
+---
+
 ## Phase 1: Length Converter
 
 **Commit:** `cf4f097e506ca9a45a9afba4aa67e88c06977b4f`
